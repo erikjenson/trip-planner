@@ -12,5 +12,8 @@
   "devDependencies": {
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "mapbox-gl": "^1.4.1"
   }
 }
